@@ -1,2 +1,2 @@
-# -CollectLogs
-2 Collect Logs from a Windows Client
+# NewEmailProfile
+small script to rename the old e-mail profile and create a new e-mail profile...
